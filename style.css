@@ -1,0 +1,74 @@
+body{
+	cursor: vertical-text; 
+}
+
+h1{
+	/*font-family: 'Alfa Slab One';*/
+	/*ORRR*/
+	font-family: poppins, sans-serif;
+	font-weight: 750;
+	font-size: 300%;
+	padding-left: 10px;
+
+}
+
+hr {
+	border-style: solid;
+	border-color: black;
+	border-width: 0.75px;
+	/*max-width: 100px;*/
+}
+
+p{
+	font-family: avenir;
+	/*line-height: 2px;*/
+	line-height: 30px;
+	font-size: 100%
+	
+}
+
+:any-link {
+	color: black;
+	padding-left: 25px;
+	/*font-weight: bold;*/
+/*	border-bottom: 2px solid grey;
+	width: 500px;
+	border-style: center;*/
+
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+	font-family: poppins;
+	font-weight: 300;
+	/*font-style: bold;*/
+	font-size: 100%
+
+
+
+}
+
+/*img{
+	width: 
+	height:
+	margin:;
+	transition: all 1s;
+
+}
+
+img:hover{
+	transform: scale (1.1);
+}*/
+
+footer{
+	clear: both;
+	text-align: center;
+}
+
+
+
+
+
+
+
